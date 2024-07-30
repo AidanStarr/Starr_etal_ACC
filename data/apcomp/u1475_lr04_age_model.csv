@@ -1,0 +1,85 @@
+APcomp Depth,Age (kyr),Age Uncertainty (kyr),Event,Method,U1475 Depth,MD02-2588 Depth,Uncertainty ,Core
+0,0,0,Coretop,Assumed,0,0,0,MD02-2588
+0.06,3.23,0.045,SUERC-4618,14C AMS (G. inflata) ,0.05,0.06,0.01,MD02-2588
+0.11,5.03,0.079,SUERC-4619,14C AMS (G. inflata) ,0.09,0.11,0.01,MD02-2588
+0.17,7.43,0.015,SUERC-4620,14C AMS (G. inflata) ,0.15,0.17,0.01,MD02-2588
+0.23,8.88,0.09,SUERC-4623,14C AMS (G. inflata) ,0.2,0.23,0.01,MD02-2588
+0.33,12.78,0.069,SUERC-4624,14C AMS (G. inflata) ,0.29,0.33,0.01,MD02-2588
+0.41,15.48,0.119,SUERC-4625,14C AMS (G. inflata) ,0.36,0.41,0.01,MD02-2588
+0.46,16.18,0.134,SUERC-4626,14C AMS (G. inflata) ,0.4,0.46,0.01,MD02-2588
+0.66,23.26,0.235,SUERC-4627,14C AMS (G. inflata) ,0.58,0.66,0.01,MD02-2588
+0.76,27.82,0.196,SUERC-4635,14C AMS (G. bulloides) ,0.67,0.76,0.01,MD02-2588
+0.86,29.22,0.312,SUERC-4636,14C AMS (G. bulloides) ,0.76,0.86,0.01,MD02-2588
+0.96,32.36,0.236,SUERC-4637,14C AMS (G. bulloides) ,0.85,0.96,0.01,MD02-2588
+1.06,40.21,0.884,SUERC-4638,14C AMS (G. bulloides) ,0.94,1.06,0.01,MD02-2588
+1.66,65,4,MIS 4/3,18O_cib to Prob-Stack (Starr et al 2021),1.47,1.66,0.09,MD02-2588
+3.43,117,4,MIS 5e/5d,18O_cib to Prob-Stack (Starr et al 2021),3.05,3.43,0.05,MD02-2588
+3.93,129.2,4,T II,18O_cib to Prob-Stack (Starr et al 2021),3.57,3.93,0.04,MD02-2588
+5.84,194,4,,18O_cib to Prob-Stack (Starr et al 2021),4.73,5.84,0.03,MD02-2588
+6.41,220,4,,18O_cib to Prob-Stack (Starr et al 2021),5.53,6.41,0.03,MD02-2588
+7.03,244,4,T III,18O_cib to Prob-Stack (Starr et al 2021),6.15,7.03,0.04,MD02-2588
+8.1,280,4,,18O_cib to Prob-Stack (Starr et al 2021),7.39,8.45,0.04,MD02-2588
+8.56,292,4,T IV,18O_cib to Prob-Stack (Starr et al 2021),9.22,10.23,0.05,MD02-2588
+10.23,337,4,T V ,18O_cib to Prob-Stack (Starr et al 2021),13.41,,0.09,361-U1475
+11.85,380,4,,18O_cib to Prob-Stack (Starr et al 2021),10.7,,0.1,361-U1475
+14.57,423,4,T VI,18O_cib to Prob-Stack (Starr et al 2021),13.41,,0.04,361-U1475
+16.45,472,4,T VII,18O_cib to Prob-Stack (Starr et al 2021),15.3,,0.08,361-U1475
+18.06,537,4,T VIII (MIS 18/17),18O_cib to Prob-Stack (Starr et al 2021),16.91,,0.04,361-U1475
+18.2,560,4,,18O_cib to Prob-Stack (Starr et al 2021),17.05,,0.02,361-U1475
+19.3,620,4,MIS 20/19,18O_cib to Prob-Stack (Starr et al 2021),18.15,,0.06,361-U1475
+20.7,710,4,MIS 22/21,18O_cib to Prob-Stack (Starr et al 2021),19.55,,0.03,361-U1475
+21.34,744,4,MIS 24/23,18O_cib to Prob-Stack (Starr et al 2021),20.18,,0.04,361-U1475
+22.16,788,4,MIS 26/25,18O_cib to Prob-Stack (Starr et al 2021),21.01,,0.03,361-U1475
+23.4,820,4,,,,,,
+24.3,866,4,,18O_cib to Prob-Stack (Starr et al 2021),23.15,,0.25,361-U1475
+25.4,930,6,MIS 30/29,18O_cib to Prob-Stack (Starr et al 2021),24.25,,0.1,361-U1475
+26.46,958,6,MIS 31/30,18O_cib to Prob-Stack (Starr et al 2021),25.31,,0.05,361-U1475
+27.26,982,6,MIS 32/31,18O_cib to Prob-Stack (Starr et al 2021),26.11,,0.2,361-U1475
+29.78,1032,6,MIS 34/33,18O_cib to Prob-Stack (Starr et al 2021),28.63,,0.3,361-U1475
+30.75,1062,6,MIS 36/35,18O_cib to Prob-Stack (Starr et al 2021),29.47,,0.08,361-U1475
+32.15,1088,6,,18O_cib to Prob-Stack (Starr et al 2021),30.95,,0.02,361-U1475
+32.98,1118,6,,18O_cib to Prob-Stack (Starr et al 2021),31.83,,0.01,361-U1475
+34.38,1190,6,,18O_cib to Prob-Stack (Starr et al 2021),33.23,,0.04,361-U1475
+35.7,1244,6,MIS 46/45,18O_cib to Prob-Stack (Starr et al 2021),34.55,,0.04,361-U1475
+37.02,1322,6,MIS 47/46,18O_cib to Prob-Stack (Starr et al 2021),35.86,,0.1,361-U1475
+38.26,1364,6,,18O_cib to Prob-Stack (Starr et al 2021),37.11,,0.12,361-U1475
+39.1,1404,6,MIS 52/51,18O_cib to Prob-Stack (Starr et al 2021),37.95,,0.04,361-U1475
+39.45,1428,6,MIS 54/53,18O_cib to Prob-Stack (Starr et al 2021),38.3,,0.04,361-U1475
+40.15,1452,6,MIS 54/53,18O_cib to Prob-Stack (Starr et al 2021),39,,0.08,361-U1475
+41.24,1494,6,,18O_cib to Prob-Stack (Starr et al 2021),40.09,,0.1,361-U1475
+41.88,1530,6,,18O_cib to Prob-Stack (Starr et al 2021),40.73,,0.09,361-U1475
+42.96,1569,,B C1r,Polarity,41.81,,0.5,361-U1475
+44.48,1642,6,MIS 64/63,18O_cib to Prob-Stack,43.33,,0.05,361-U1475
+45.33,1700,6,,18O_cib to Prob-Stack,44.18,,0.05,361-U1475
+46.67,1782,6,,18O_cib to Prob-Stack,45.52,,0.09,361-U1475
+47.1,1805,6,,18O_cib to Prob-Stack,45.95,,0.1,361-U1475
+47.76,1860,6,,18O_cib to Prob-Stack,46.61,,0.5,361-U1475
+49.5,1900,6,,18O_cib to Prob-Stack,48.35,,0.3,361-U1475
+50.4,1950,6,,18O_cib to Prob-Stack,49.25,,0.03,361-U1475
+50.9,2010,6,,18O_cib to Prob-Stack,49.75,,0.04,361-U1475
+53,2080,6,,18O_cib to Prob-Stack,51.85,,0.04,361-U1475
+53.7,2142,6,,18O_cib to Prob-Stack,52.55,,0.05,361-U1475
+54.85,2197,6,,18O_cib to Prob-Stack,53.7,,,361-U1475
+56.47,2235.53,6,,18O_cib to Prob-Stack,55.32,,,361-U1475
+58.33,2315,6,,18O_cib to Prob-Stack,57.18,,,361-U1475
+59.8,2349.73,6,,18O_cib to Prob-Stack,58.65,,,361-U1475
+61.52,2428.29,6,,18O_cib to Prob-Stack,60.36,,,361-U1475
+62.85,2480,6,,18O_cib to Prob-Stack,61.7,,,361-U1475
+63.65,2510.78,6,,18O_cib to Prob-Stack,62.5,,,361-U1475
+64,2540,6,,18O_cib to Prob-Stack,62.85,,,361-U1475
+66.55,2620,6,,18O_cib to Prob-Stack,65.4,,,361-U1475
+67,2640,6,,18O_cib to Prob-Stack,65.85,,,361-U1475
+69,2680,6,,18O_cib to Prob-Stack,67.85,,,361-U1475
+70.2,2736,6,,18O_cib to Prob-Stack,69.05,,,361-U1475
+72.55,2798,6,,18O_cib to Prob-Stack,71.4,,,361-U1475
+73.75,2839.31,6,,18O_cib to Prob-Stack,72.6,,,361-U1475
+78.66,2930,6,,18O_cib to Prob-Stack,77.5,,,361-U1475
+83.5,3000,6,,18O_cib to Prob-Stack,82.35,,,361-U1475
+84.3,3030,6,,18O_cib to Prob-Stack,83.15,,,361-U1475
+86,3090,6,,18O_cib to Prob-Stack,84.85,,,361-U1475
+88.5,3150,6,,18O_cib to Prob-Stack,87.35,,,361-U1475
+93,3207,,B C2An.2n,Polarity,91.85,,,361-U1475
+97.5,3290,,MIS M2,Phys Prop Stack,96.35,,,361-U1475
+113,3590,,,Phys Prop Stack,111.85,,,361-U1475
+121.6,3996,,,Phys Prop Stack,120.45,,,361-U1475
+128.5,4120,,,Phys Prop Stack,127.35,,,361-U1475

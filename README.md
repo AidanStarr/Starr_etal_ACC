@@ -10,11 +10,10 @@ Raw data for this study is found in the `/data` folder, whilst any tables genera
 ### Notebooks 01-05: Analysis and Supplemental Figures
 
 - 01_data_processing
-- 02_SS_compilation
-- 03_APcomp_flow_context
-- 04_DP_AP_corrcoeff
-- 05_MIS_ensemble
-- 06_spectral_analysis
+- 02_APcomp_flow_context
+- 03_DP_AP_corrcoeff
+- 04_MIS_ensemble
+- 05_spectral_analysis
 
 ### Notebooks 11-14: Main Text figures
 
