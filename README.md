@@ -10,18 +10,14 @@ Raw data for this study is found in the `/data` folder, whilst any tables genera
 ### Notebooks 01-05: Analysis and Supplemental Figures
 
 - 01_data_processing
-- 02_APcomp_flow_context
-- 03_DP_AP_corrcoeff
-- 04_MIS_ensemble
-- 05_spectral_analysis
+- 02_DP_corrcoeff
+- 03_Change_Points
+- 04_MIS_analysis
+- 05_AP_paleoceanography
 
 ### Notebooks 11-14: Main Text figures
 
-- 11_figure_1_and_2
-  - map figure with 2 panels
-  - need to add circulation schematic mannually in inkscape
-
-- 12_figure_3
+- 12_figure_2
   - d18O
   - APcomp SS
   - MD022589 SS
@@ -31,15 +27,15 @@ Raw data for this study is found in the `/data` folder, whilst any tables genera
   - Dd18O?
   - Ba/Fe
 
-- 13_figure_4
+- 13_figure_3
   - add 15N // NPS? // opal?
   - Dd18O
 
-- 14_figure_5
+- 14_figure_4
   - APcomp SS
   - AIS volume
   - DP SS
-  - 1123 SS
+  - rolling correlation
   - Insolation 
   - d18O
 
@@ -51,11 +47,10 @@ Raw data for this study is found in the `/data` folder, whilst any tables genera
 - SF3 : AP continuity 👍
 - SF4 : SS conversion and ODP 1123 👍
 - SF5 : Isotope Results 👍
-- SF6 : Change point detection 📝
+- SF6 : Change point detection 👍
 - SF7 : MIS analysis 👍
 - SF8 : MIS comparison 👍
 - SF9 : Bootstrap r2 AIS models 👍
 - SF10 : Bootstrap DP corrcoef 👍
 - SF11 : hydrographic tracers of AP dynamics (last glacial cycle? clay + SST) 👍
 - SF12 : long record hydrographic comparisons 👍
-- SF13 : IRD vs SS
